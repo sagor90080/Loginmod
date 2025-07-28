@@ -1,14 +1,16 @@
 [
-    {
-        "device_id": "13333f93595debed",
-        "key": "12345",
-        "expirydate": "20-12-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    }
+  {
+    "id": "13333f93595debed",
+    "username": "dpmods",
+    "password": "dpmods",
+    "expiresAt": "2026-12-21",
+    "allowOffline": true
+  },
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
+    "expiresAt": "2025-11-30",
+    "allowOffline": false
+  }
 ]
