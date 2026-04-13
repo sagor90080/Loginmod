@@ -13,4 +13,11 @@
     "expiresAt": "2026-11-30",
     "allowOffline": false
   }
+  {
+    "id": "f156dff8948921ca",
+    "username": "j",
+    "password": "j",
+    "expiresAt": "2026-12-30",
+    "allowOffline": false
+  }
 ]
